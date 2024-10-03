@@ -12,7 +12,6 @@ The Password Generator is a tool that allows users to generate secure passwords 
 - One-click password generation
 - Clear display of the generated password
 - Responsive design that adapts to different screen sizes
-- Dark mode support
 - Customizable password generation through API parameters
 
 ## Technologies Used
